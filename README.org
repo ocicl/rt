@@ -4,6 +4,6 @@ Common Lisp testing framework
 
 |---------+------------------------------|
 | source  | git:http://git.kpe.io/rt.git |
-| commit  | 2df7c30                      |
+| commit  | a6a7503                      |
 | systems | rt                           |
 |---------+------------------------------|
